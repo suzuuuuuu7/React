@@ -1,11 +1,7 @@
-
+import Sujal from "./sujal";
 function App() {
   return (
-    <div>
-    <h1>hello React</h1>
-    <p>Iam going to learn react form chaai aur code</p>
-    <button> submit</button>
-    </div>
+  <Sujal/>
   );
 }
 
